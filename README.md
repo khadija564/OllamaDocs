@@ -1,5 +1,4 @@
-**Here is everything you need to know to get started with Ollama!!
-**
+**Here is everything you need to know to get started with Ollama!!**
 
 
 

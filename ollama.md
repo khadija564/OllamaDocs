@@ -50,4 +50,25 @@ Here are the basic commands to check when using ollama :
   ollama uninstall <model-name>
   ```
 
+**Tips for Using Ollama**
+- System Requirements: Ensure your computer meets the hardware requirements (e.g., sufficient RAM and GPU).
+- Privacy: Since models run locally, your data stays on your computer.
+- Updates: Regularly check for updates to Ollama or its models to access the latest features and improvements
 
+**To uninstall a model:**
+  ```bash
+  ollama update
+  ```
+## Example Workflow
+1. Install Ollama
+2. Download the model
+ **To uninstall a model:**
+  ```bash
+  ollama pull llama3.3
+  ```
+3. Run the model
+**To uninstall a model:**
+  ```bash
+  ollama run llama3.3
+  ``` 
+4. Interact with the model by typing prompts in the terminal
